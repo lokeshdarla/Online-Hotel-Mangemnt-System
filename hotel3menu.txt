@@ -1,0 +1,10 @@
+Pani_puri................ 60
+Veg_Noodles.............. 90
+Chicken_Noodles.......... 130
+Egg_Noodles.............. 110
+Cold_Coffee.............. 135
+Chocolate_Cold_Coffee.... 145
+Choco_Brownie_Coffee..... 155
+Black_Current_Thickshake. 220
+Cashew_Chips_Thickshake.. 220
+Caramel_Nuts_Thickshake.. 220

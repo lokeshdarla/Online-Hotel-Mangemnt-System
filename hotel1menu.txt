@@ -1,0 +1,10 @@
+Chicken_Dum_Biryani...... 250
+Chicken_Fry_Biryani...... 280
+Mutton_Dum_Biryani....... 350
+Sp_Chicken_Biryani....... 280
+Chicken_Joint_Biryani.... 280
+Wings_Biryani............ 280
+Fish_Biryani............. 330
+Prawns_Biryani........... 350
+Egg_Biryani.............. 200
+Plain_Biryani............ 150

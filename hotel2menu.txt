@@ -1,0 +1,10 @@
+French_Fries............. 80
+Veg_Burger(8_pcs)........ 100
+Chicken_Burger(8_pcs).... 120
+Chicken_Lollipop......... 280
+Chicken_Shawarma......... 150
+Grilled_Chicken.......... 220
+Chicken_Manchuria........ 310
+Chicken_65............... 250
+Chilli_Chicken........... 250
+Veg_Manchuria............ 200
